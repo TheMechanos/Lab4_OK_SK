@@ -1,0 +1,16 @@
+C:\OneDrive\STUDIA\ATH\OK\Lab4\Lab4_OK_SK\Lab4_OK_SK\bin\Debug\net5.0\Lab4_OK_SK.exe
+C:\OneDrive\STUDIA\ATH\OK\Lab4\Lab4_OK_SK\Lab4_OK_SK\bin\Debug\net5.0\Lab4_OK_SK.deps.json
+C:\OneDrive\STUDIA\ATH\OK\Lab4\Lab4_OK_SK\Lab4_OK_SK\bin\Debug\net5.0\Lab4_OK_SK.runtimeconfig.json
+C:\OneDrive\STUDIA\ATH\OK\Lab4\Lab4_OK_SK\Lab4_OK_SK\bin\Debug\net5.0\Lab4_OK_SK.runtimeconfig.dev.json
+C:\OneDrive\STUDIA\ATH\OK\Lab4\Lab4_OK_SK\Lab4_OK_SK\bin\Debug\net5.0\Lab4_OK_SK.dll
+C:\OneDrive\STUDIA\ATH\OK\Lab4\Lab4_OK_SK\Lab4_OK_SK\bin\Debug\net5.0\ref\Lab4_OK_SK.dll
+C:\OneDrive\STUDIA\ATH\OK\Lab4\Lab4_OK_SK\Lab4_OK_SK\bin\Debug\net5.0\Lab4_OK_SK.pdb
+C:\OneDrive\STUDIA\ATH\OK\Lab4\Lab4_OK_SK\Lab4_OK_SK\obj\Debug\net5.0\Lab4_OK_SK.csproj.AssemblyReference.cache
+C:\OneDrive\STUDIA\ATH\OK\Lab4\Lab4_OK_SK\Lab4_OK_SK\obj\Debug\net5.0\Lab4_OK_SK.GeneratedMSBuildEditorConfig.editorconfig
+C:\OneDrive\STUDIA\ATH\OK\Lab4\Lab4_OK_SK\Lab4_OK_SK\obj\Debug\net5.0\Lab4_OK_SK.AssemblyInfoInputs.cache
+C:\OneDrive\STUDIA\ATH\OK\Lab4\Lab4_OK_SK\Lab4_OK_SK\obj\Debug\net5.0\Lab4_OK_SK.AssemblyInfo.cs
+C:\OneDrive\STUDIA\ATH\OK\Lab4\Lab4_OK_SK\Lab4_OK_SK\obj\Debug\net5.0\Lab4_OK_SK.csproj.CoreCompileInputs.cache
+C:\OneDrive\STUDIA\ATH\OK\Lab4\Lab4_OK_SK\Lab4_OK_SK\obj\Debug\net5.0\Lab4_OK_SK.dll
+C:\OneDrive\STUDIA\ATH\OK\Lab4\Lab4_OK_SK\Lab4_OK_SK\obj\Debug\net5.0\ref\Lab4_OK_SK.dll
+C:\OneDrive\STUDIA\ATH\OK\Lab4\Lab4_OK_SK\Lab4_OK_SK\obj\Debug\net5.0\Lab4_OK_SK.pdb
+C:\OneDrive\STUDIA\ATH\OK\Lab4\Lab4_OK_SK\Lab4_OK_SK\obj\Debug\net5.0\Lab4_OK_SK.genruntimeconfig.cache

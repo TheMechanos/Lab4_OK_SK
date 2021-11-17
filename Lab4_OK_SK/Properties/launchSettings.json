@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Lab4_OK_SK": {
+      "commandName": "Project",
+      "commandLineArgs": "punkty.txt"
+    }
+  }
+}
